@@ -1,0 +1,13 @@
+C:\Data\private\CSharp\Day1_loops\Day1_loops\bin\Debug\netcoreapp3.1\Day1_loops.exe
+C:\Data\private\CSharp\Day1_loops\Day1_loops\bin\Debug\netcoreapp3.1\Day1_loops.deps.json
+C:\Data\private\CSharp\Day1_loops\Day1_loops\bin\Debug\netcoreapp3.1\Day1_loops.runtimeconfig.json
+C:\Data\private\CSharp\Day1_loops\Day1_loops\bin\Debug\netcoreapp3.1\Day1_loops.runtimeconfig.dev.json
+C:\Data\private\CSharp\Day1_loops\Day1_loops\bin\Debug\netcoreapp3.1\Day1_loops.dll
+C:\Data\private\CSharp\Day1_loops\Day1_loops\bin\Debug\netcoreapp3.1\Day1_loops.pdb
+C:\Data\private\CSharp\Day1_loops\Day1_loops\obj\Debug\netcoreapp3.1\Day1_loops.csprojAssemblyReference.cache
+C:\Data\private\CSharp\Day1_loops\Day1_loops\obj\Debug\netcoreapp3.1\Day1_loops.AssemblyInfoInputs.cache
+C:\Data\private\CSharp\Day1_loops\Day1_loops\obj\Debug\netcoreapp3.1\Day1_loops.AssemblyInfo.cs
+C:\Data\private\CSharp\Day1_loops\Day1_loops\obj\Debug\netcoreapp3.1\Day1_loops.csproj.CoreCompileInputs.cache
+C:\Data\private\CSharp\Day1_loops\Day1_loops\obj\Debug\netcoreapp3.1\Day1_loops.dll
+C:\Data\private\CSharp\Day1_loops\Day1_loops\obj\Debug\netcoreapp3.1\Day1_loops.pdb
+C:\Data\private\CSharp\Day1_loops\Day1_loops\obj\Debug\netcoreapp3.1\Day1_loops.genruntimeconfig.cache
