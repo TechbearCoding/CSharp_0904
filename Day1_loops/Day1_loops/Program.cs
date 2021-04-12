@@ -14,7 +14,7 @@ namespace Day1_loops
 
             while (skaitlis % 10 != 0)
             {
-                Console.WriteLine(skaitlis);
+                Console.Write(skaitlis + " ");
                 skaitlis++;
             }
             Console.WriteLine("Skaitlis " + skaitlis + " dalas ar 10");
