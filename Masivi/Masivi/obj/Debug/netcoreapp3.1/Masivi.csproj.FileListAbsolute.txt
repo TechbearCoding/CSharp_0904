@@ -1,0 +1,13 @@
+C:\Data\private\CSharp\Masivi\Masivi\bin\Debug\netcoreapp3.1\Masivi.exe
+C:\Data\private\CSharp\Masivi\Masivi\bin\Debug\netcoreapp3.1\Masivi.deps.json
+C:\Data\private\CSharp\Masivi\Masivi\bin\Debug\netcoreapp3.1\Masivi.runtimeconfig.json
+C:\Data\private\CSharp\Masivi\Masivi\bin\Debug\netcoreapp3.1\Masivi.runtimeconfig.dev.json
+C:\Data\private\CSharp\Masivi\Masivi\bin\Debug\netcoreapp3.1\Masivi.dll
+C:\Data\private\CSharp\Masivi\Masivi\bin\Debug\netcoreapp3.1\Masivi.pdb
+C:\Data\private\CSharp\Masivi\Masivi\obj\Debug\netcoreapp3.1\Masivi.csprojAssemblyReference.cache
+C:\Data\private\CSharp\Masivi\Masivi\obj\Debug\netcoreapp3.1\Masivi.AssemblyInfoInputs.cache
+C:\Data\private\CSharp\Masivi\Masivi\obj\Debug\netcoreapp3.1\Masivi.AssemblyInfo.cs
+C:\Data\private\CSharp\Masivi\Masivi\obj\Debug\netcoreapp3.1\Masivi.csproj.CoreCompileInputs.cache
+C:\Data\private\CSharp\Masivi\Masivi\obj\Debug\netcoreapp3.1\Masivi.dll
+C:\Data\private\CSharp\Masivi\Masivi\obj\Debug\netcoreapp3.1\Masivi.pdb
+C:\Data\private\CSharp\Masivi\Masivi\obj\Debug\netcoreapp3.1\Masivi.genruntimeconfig.cache
